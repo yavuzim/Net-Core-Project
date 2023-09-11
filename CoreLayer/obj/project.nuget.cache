@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpYoO5w5O8GXQestGaUgh9CAQHhk1qYgCdpLJQnBnp95qI/Vz/Rx2HATZemaQyqiusfoVuqkDEZTE4+pYitzLQ==",
+  "dgSpecHash": "Rn8+DV7rOAv9RQQLM+fvs6JnHyOqkduMIltWhxj4VE/YFSJN4A/keEQ7WGYL6yNraRc90a4Zr27jkrHmIbIhSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

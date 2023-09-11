@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

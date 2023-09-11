@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LShHggX30xsiEmceEeoUaD2titPMOmiMZvNy/9lGYF6ufd92iuy7LcwGtKkjABUAUi6Zk6uKu3Xg8b5LjR2W7g==",
+  "dgSpecHash": "+3vwlQeO4gjKkiXY6AdqWvKh220Mt43VkPCgZ2y4/ZQZipGFbYZv0DzPeLIHG9LnIDaoQjNHvp5u6UrNdOznrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hf6Rcy5yYh+cOZwUY5UC1+9s88vqTkjxoQhBwXlj+MCJbKFUKjh++HmvzcVyQ1wWHGUXlihA0BTlhzcJBFyH/Q==",
+  "dgSpecHash": "iOeNeWunBp5DqiS5hG+NOThXzOKSnm/nZOrskbwJH/AlyrG4Q/zx1uISSZf3/3cfZjC0TaYsk5EAVucRf28qYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

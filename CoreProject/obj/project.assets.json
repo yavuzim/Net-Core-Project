@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\CoreProject\\CoreProject.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\CoreProject\\CoreProject.csproj",
       "projectName": "CoreProject",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\CoreProject\\CoreProject.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\CoreProject\\CoreProject.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\CoreProject\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Asp.Net Core 5.0 Proje Kampı\\CoreProject\\Net-Core-Project\\CoreProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
