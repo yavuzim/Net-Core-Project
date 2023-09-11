@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

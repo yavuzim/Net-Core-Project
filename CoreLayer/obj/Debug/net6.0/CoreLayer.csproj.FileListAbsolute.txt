@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\USER\Desktop\Asp.Net Core 5.0 Proje Kampı\CoreProject\Net-Core-Project\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
